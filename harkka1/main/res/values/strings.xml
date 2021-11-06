@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TampereenSaa</string>
+    <string name="tampere">TAMPERE</string>
+    <string name="update">update</string>
+    <string name="forecast">Forecast</string>
+    <string name="clouds">clouds</string>
+    <string name="clear">clear</string>
+    <string name="snow">snow</string>
+    <string name="atmosphere">atmosphere</string>
+    <string name="rain">rain</string>
+    <string name="drizzle">drizzle</string>
+    <string name="thunderstorm">thunderstorm</string>
+    <string name="hours">hours</string>
+    <string name="in">In</string>
+    <string name="ierror">No Internet</string>
+</resources>
