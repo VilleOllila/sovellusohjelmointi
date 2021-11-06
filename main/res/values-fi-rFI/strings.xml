@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TampereenSaa</string>
+    <string name="tampere">TAMPERE</string>
+    <string name="update">päivitä</string>
+    <string name="forecast">ennuste</string>
+    <string name="clouds">Pilvistä</string>
+    <string name="clear">Selkeää</string>
+    <string name="snow">Lumisadetta</string>
+    <string name="atmosphere">Tunnelma</string>
+    <string name="rain">Sadetta</string>
+    <string name="drizzle">Tihkuttaa</string>
+    <string name="thunderstorm">Ukkostaa</string>
+    <string name="hours">" h päästä: "</string>
+    <string name="in">" "</string>
+    <string name="ierror">Ei nettiyhteyttä</string>
+</resources>
